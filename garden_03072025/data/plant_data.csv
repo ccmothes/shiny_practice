@@ -1,0 +1,447 @@
+Common Name,Latin Name,Soil pH,Hardiness Zone,Size,Sun Requirements
+Lavender,Lavandula angustifolia,6.5-7.5,5-9,1-3 ft,Full Sun
+Rose,Rosa spp.,6.0-6.5,4-9,3-6 ft,Full Sun
+Sunflower,Helianthus annuus,6.0-7.5,2-11,6-10 ft,Full Sun
+Tulip,Tulipa spp.,6.0-7.0,3-8,0.5-2 ft,Full Sun
+Daffodil,Narcissus spp.,6.0-6.5,3-9,1-2 ft,Full Sun to Partial Shade
+Zinnia,Zinnia elegans,5.5-7.5,2-11,1-4 ft,Full Sun
+Marigold,Tagetes spp.,6.0-7.0,2-11,0.5-2 ft,Full Sun
+Petunia,Petunia x hybrida,6.0-7.0,10-11,0.5-1.5 ft,Full Sun
+Pansy,Viola x wittrockiana,5.8-6.2,6-10,0.5-1 ft,Partial Shade
+Geranium,Pelargonium spp.,6.5-7.0,10-11,1-2 ft,Full Sun to Partial Shade
+Chrysanthemum,Chrysanthemum morifolium,6.0-7.0,5-9,1-3 ft,Full Sun
+Orchid,Orchidaceae family,5.5-6.5,10-12,1-3 ft,Partial Shade
+Azalea,Rhododendron spp.,4.5-5.5,4-9,3-6 ft,Partial Shade
+Hydrangea,Hydrangea macrophylla,5.0-6.0,3-9,3-6 ft,Partial Shade
+Boston Fern,Nephrolepis exaltata,5.0-5.5,9-11,1-3 ft,Partial to Full Shade
+Snake Plant,Sansevieria trifasciata,5.5-7.0,9-11,1-4 ft,Low to Bright Indirect Light
+Pothos,Epipremnum aureum,6.0-6.5,10-12,6-10 ft (vine),Low to Bright Indirect Light
+Aloe Vera,Aloe barbadensis,7.0-8.5,8-11,1-2 ft,Bright Indirect Light
+Jade Plant,Crassula ovata,6.0-7.0,10-11,1-5 ft,Bright Indirect Light
+Spider Plant,Chlorophytum comosum,6.0-7.2,9-11,1-2 ft,Bright Indirect Light
+Peace Lily,Spathiphyllum spp.,5.5-6.5,10-12,1-3 ft,Low to Partial Shade
+Fiddle Leaf Fig,Ficus lyrata,6.0-7.0,10-12,6-10 ft,Bright Indirect Light
+Rubber Plant,Ficus elastica,5.5-7.0,10-12,6-10 ft,Bright Indirect Light
+Monstera,Monstera deliciosa,5.5-7.0,10-12,6-10 ft,Bright Indirect Light
+ZZ Plant,Zamioculcas zamiifolia,6.0-7.0,9-10,2-3 ft,Low to Bright Indirect Light
+English Ivy,Hedera helix,6.0-7.5,4-9,6-8 ft (vine),Partial Shade
+Philodendron,Philodendron spp.,5.0-6.0,10-12,1-3 ft,Bright Indirect Light
+African Violet,Saintpaulia ionantha,6.0-7.0,11-12,0.5-1 ft,Bright Indirect Light
+Begonia,Begonia spp.,5.5-6.5,10-11,0.5-3 ft,Partial Shade
+Caladium,Caladium bicolor,5.5-6.5,9-11,1-2 ft,Partial to Full Shade
+Red Maple,Acer rubrum,4.5-6.5,3-9,40-60 ft,Full Sun to Partial Shade
+Oak Tree,Quercus spp.,5.0-6.5,3-9,50-80 ft,Full Sun
+Birch Tree,Betula spp.,5.0-6.5,2-7,40-70 ft,Full Sun
+Dogwood,Cornus florida,5.5-6.5,5-9,15-30 ft,Partial Shade
+Magnolia,Magnolia grandiflora,5.0-6.0,7-9,60-80 ft,Full Sun to Partial Shade
+Pine Tree,Pinus spp.,5.0-6.0,3-8,50-100 ft,Full Sun
+Japanese Maple,Acer palmatum,5.5-6.5,5-8,15-25 ft,Partial Shade
+Weeping Willow,Salix babylonica,6.0-8.0,6-8,30-50 ft,Full Sun
+Lilac,Syringa vulgaris,6.5-7.5,3-7,8-15 ft,Full Sun
+Forsythia,Forsythia spp.,6.5-7.5,5-8,8-10 ft,Full Sun
+Hibiscus,Hibiscus rosa-sinensis,6.0-7.0,9-11,3-8 ft,Full Sun
+Bougainvillea,Bougainvillea glabra,5.5-6.5,9-11,10-20 ft (vine),Full Sun
+Coneflower,Echinacea purpurea,5.5-7.0,3-8,2-5 ft,Full Sun
+Black-eyed Susan,Rudbeckia hirta,6.0-7.0,3-9,2-3 ft,Full Sun
+Shasta Daisy,Leucanthemum x superbum,6.0-7.0,5-9,1-3 ft,Full Sun
+Bleeding Heart,Dicentra spectabilis,6.0-7.0,3-9,2-3 ft,Partial Shade
+Hosta,Hosta spp.,6.0-7.5,3-9,1-3 ft,Partial to Full Shade
+Astilbe,Astilbe spp.,5.5-6.5,4-8,1-4 ft,Partial to Full Shade
+Sedum,Sedum spp.,6.0-7.0,3-9,0.5-2 ft,Full Sun
+Yucca,Yucca filamentosa,6.0-7.0,4-10,2-3 ft,Full Sun
+Pampas Grass,Cortaderia selloana,6.0-7.5,7-10,8-12 ft,Full Sun
+Bamboo,Bambusoideae family,6.0-6.5,5-9,10-50 ft,Partial Shade
+Rosemary,Rosmarinus officinalis,6.0-7.0,8-10,3-5 ft,Full Sun
+Basil,Ocimum basilicum,6.0-7.0,10-11,1-2 ft,Full Sun
+Mint,Mentha spp.,6.0-7.0,3-8,1-2 ft,Partial Shade
+Cilantro,Coriandrum sativum,6.2-6.8,3-11,1-2 ft,Full Sun to Partial Shade
+Thyme,Thymus vulgaris,6.0-8.0,5-9,0.5-1 ft,Full Sun
+Parsley,Petroselinum crispum,6.0-7.0,5-9,1-2 ft,Full Sun to Partial Shade
+Sage,Salvia officinalis,6.0-7.0,4-8,1-2 ft,Full Sun
+Oregano,Origanum vulgare,6.0-7.0,4-9,1-2 ft,Full Sun
+Chives,Allium schoenoprasum,6.0-7.0,3-9,1-2 ft,Full Sun to Partial Shade
+Tomato,Solanum lycopersicum,6.0-6.8,5-8,3-6 ft,Full Sun
+Pepper,Capsicum annuum,6.0-6.8,9-11,1-3 ft,Full Sun
+Cucumber,Cucumis sativus,6.0-7.0,4-11,1-2 ft (vine),Full Sun
+Lettuce,Lactuca sativa,6.0-7.0,4-9,0.5-1 ft,Partial Shade
+Spinach,Spinacia oleracea,6.5-7.5,3-9,0.5-1 ft,Partial Shade
+Carrot,Daucus carota,6.0-6.8,3-10,1-2 ft,Full Sun
+Radish,Raphanus sativus,6.0-7.0,2-10,0.5-1 ft,Full Sun
+Onion,Allium cepa,6.0-7.0,3-9,1-3 ft,Full Sun
+Garlic,Allium sativum,6.0-7.0,3-8,1-2 ft,Full Sun
+Strawberry,Fragaria _ ananassa,5.5-6.5,3-10,0.5-1 ft,Full Sun
+Blueberry,Vaccinium corymbosum,4.5-5.5,3-8,4-6 ft,Full Sun
+Raspberry,Rubus idaeus,5.5-6.5,4-8,4-6 ft,Full Sun
+Blackberry,Rubus fruticosus,6.0-6.5,5-9,3-6 ft,Full Sun
+Apple Tree,Malus domestica,6.0-7.0,3-8,15-25 ft,Full Sun
+Peach Tree,Prunus persica,6.0-7.0,5-9,15-25 ft,Full Sun
+Cherry Tree,Prunus avium,6.0-7.0,5-8,15-25 ft,Full Sun
+Lemon Tree,Citrus limon,6.0-7.0,9-11,10-20 ft,Full Sun
+Orange Tree,Citrus sinensis,6.0-7.0,9-11,10-20 ft,Full Sun
+Olive Tree,Olea europaea,6.0-7.5,8-10,20-30 ft,Full Sun
+Passion Flower,Passiflora incarnata,6.1-7.5,6-10,6-30 ft (vine),Full Sun
+Morning Glory,Ipomoea purpurea,6.0-7.5,3-10,6-10 ft (vine),Full Sun
+Wisteria,Wisteria spp.,6.0-7.0,5-9,10-30 ft (vine),Full Sun
+Clematis,Clematis spp.,6.0-7.0,4-9,8-12 ft (vine),Partial Shade
+Honeysuckle,Lonicera spp.,5.5-7.5,4-9,10-20 ft (vine),Full Sun to Partial Shade
+Trumpet Vine,Campsis radicans,6.0-6.8,4-9,25-40 ft (vine),Full Sun
+Jasmine,Jasminum spp.,6.0-7.0,8-10,10-15 ft (vine),Full Sun to Partial Shade
+Ginger,Zingiber officinale,5.5-6.5,9-12,2-4 ft,Partial Shade
+Turmeric,Curcuma longa,6.0-6.5,8-11,2-3 ft,Partial Shade
+Cardamom,Elettaria cardamomum,6.0-6.5,10-12,6-10 ft,Partial Shade
+Banana,Musa spp.,5.5-6.5,9-11,8-15 ft,Full Sun to Partial Shade
+Pineapple,Ananas comosus,5.5-6.0,9-11,3-5 ft,Full Sun
+Coconut Palm,Cocos nucifera,6.0-7.0,10-12,30-60 ft,Full Sun
+Date Palm,Phoenix dactylifera,6.0-8.0,9-11,80-100 ft,Full Sun
+Pomegranate,Punica granatum,5.5-7.2,7-10,6-15 ft,Full Sun
+Fig Tree,Ficus carica,6.0-7.5,7-10,10-30 ft,Full Sun
+Avocado,Persea americana,6.0-7.0,9-11,30-40 ft,Full Sun
+Mango,Mangifera indica,5.5-7.5,9-10,30-100 ft,Full Sun
+Papaya,Carica papaya,6.0-7.0,9-11,10-15 ft,Full Sun
+Starfruit,Averrhoa carambola,6.0-7.0,9-11,15-30 ft,Full Sun
+Lychee,Litchi chinensis,6.0-7.0,10-11,30-40 ft,Full Sun
+Rambutan,Nephelium lappaceum,5.5-6.5,10-11,50-80 ft,Full Sun
+Durian,Durio zibethinus,6.0-6.5,10-11,80-150 ft,Full Sun
+Jackfruit,Artocarpus heterophyllus,6.0-7.5,9-11,30-70 ft,Full Sun
+Breadfruit,Artocarpus altilis,6.0-7.5,9-11,40-60 ft,Full Sun
+Guava,Psidium guajava,5.0-7.0,9-11,10-20 ft,Full Sun
+Coffee Plant,Coffea arabica,6.0-6.5,10-11,6-15 ft,Partial Shade
+Tea Plant,Camellia sinensis,4.5-6.5,7-9,6-15 ft,Partial Shade
+Cacao Tree,Theobroma cacao,6.0-7.0,10-11,15-25 ft,Partial Shade
+Vanilla,Vanilla planifolia,6.0-7.0,10-12,10-15 ft (vine),Partial Shade
+Cinnamon,Cinnamomum verum,6.0-7.0,9-11,30-50 ft,Full Sun
+Nutmeg,Myristica fragrans,6.0-7.0,10-11,30-60 ft,Partial Shade
+Clove,Syzygium aromaticum,6.0-7.0,10-12,30-40 ft,Full Sun
+Black Pepper,Piper nigrum,5.5-7.0,10-11,10-20 ft (vine),Partial Shade
+Wasabi,Wasabia japonica,6.0-7.0,7-10,1-2 ft,Full Shade
+Lemongrass,Cymbopogon citratus,6.0-7.5,9-10,3-5 ft,Full Sun
+Horseradish,Armoracia rusticana,6.0-7.0,4-8,1-2 ft,Full Sun
+Chinese Cabbage,Brassica rapa,6.0-7.5,4-7,1-2 ft,Full Sun
+Pak Choi,Brassica rapa var. chinensis,6.0-7.0,4-7,1-2 ft,Partial Shade
+Taro,Colocasia esculenta,5.5-6.5,8-11,3-6 ft,Partial Shade
+Sweet Potato,Ipomoea batatas,5.8-6.2,9-11,1-2 ft (vine),Full Sun
+Cassava,Manihot esculenta,5.5-6.5,8-11,6-10 ft,Full Sun
+Yam,Dioscorea spp.,5.5-6.5,7-10,10-15 ft (vine),Partial Shade
+Okra,Abelmoschus esculentus,6.0-7.5,6-11,3-6 ft,Full Sun
+Eggplant,Solanum melongena,5.5-6.5,4-10,2-4 ft,Full Sun
+Artichoke,Cynara scolymus,6.5-7.5,7-9,3-6 ft,Full Sun
+Asparagus,Asparagus officinalis,6.5-7.5,4-8,3-5 ft,Full Sun
+Rhubarb,Rheum rhabarbarum,6.0-6.8,3-8,3-5 ft,Full Sun
+Kale,Brassica oleracea var. sabellica,6.0-7.5,7-9,1-2 ft,Full Sun
+Brussels Sprouts,Brassica oleracea var. gemmifera,6.0-7.5,4-9,2-3 ft,Full Sun
+Cauliflower,Brassica oleracea var. botrytis,6.0-7.0,2-11,1-2 ft,Full Sun
+Broccoli,Brassica oleracea var. italica,6.0-7.0,2-11,1-2 ft,Full Sun
+Cabbage,Brassica oleracea var. capitata,6.0-7.5,1-10,1-2 ft,Full Sun
+Swiss Chard,Beta vulgaris subsp. vulgaris,6.0-7.0,2-10,1-2 ft,Full Sun
+Beet,Beta vulgaris,6.0-7.0,2-10,1-2 ft,Full Sun
+Turnip,Brassica rapa var. rapa,6.0-7.0,2-9,1-2 ft,Full Sun
+Rutabaga,Brassica napus var. napobrassica,6.0-7.0,3-9,1-2 ft,Full Sun
+Parsnip,Pastinaca sativa,6.0-7.0,2-9,1-3 ft,Full Sun
+Fennel,Foeniculum vulgare,6.0-7.0,4-9,3-5 ft,Full Sun
+Leek,Allium ampeloprasum,6.0-7.0,5-10,1-3 ft,Full Sun
+Shallot,Allium cepa var. aggregatum,6.0-7.0,3-9,1-2 ft,Full Sun
+Celery,Apium graveolens,6.0-7.0,2-10,1-2 ft,Partial Shade
+Kohlrabi,Brassica oleracea var. gongylodes,6.0-7.5,3-10,1-2 ft,Full Sun
+Watercress,Nasturtium officinale,6.0-7.5,3-11,0.5-1.5 ft,Partial Shade
+Arugula,Eruca vesicaria,6.0-7.0,3-11,1-2 ft,Partial Shade
+Endive,Cichorium endivia,5.0-6.8,4-8,1-2 ft,Partial Shade
+Radicchio,Cichorium intybus var. foliosum,6.0-6.8,4-8,1-2 ft,Full Sun to Partial Shade
+Chicory,Cichorium intybus,5.5-7.0,3-9,2-3 ft,Full Sun
+Escarole,Cichorium endivia var. latifolia,6.0-7.0,4-8,1-2 ft,Partial Shade
+Corn,Zea mays,5.8-7.0,4-8,6-8 ft,Full Sun
+Zucchini,Cucurbita pepo,6.0-7.5,3-9,2-3 ft,Full Sun
+Pumpkin,Cucurbita pepo,6.0-6.8,3-9,1-2 ft (vine),Full Sun
+Butternut Squash,Cucurbita moschata,6.0-6.8,3-9,1-2 ft (vine),Full Sun
+Acorn Squash,Cucurbita pepo var. turbinata,6.0-7.0,4-9,1-2 ft (vine),Full Sun
+Spaghetti Squash,Cucurbita pepo var. fastigata,6.0-6.5,3-9,1-2 ft (vine),Full Sun
+Watermelon,Citrullus lanatus,6.0-7.0,3-11,1-2 ft (vine),Full Sun
+Cantaloupe,Cucumis melo var. cantalupensis,6.0-7.0,4-10,1-2 ft (vine),Full Sun
+Honeydew,Cucumis melo var. inodorus,6.5-7.5,4-10,1-2 ft (vine),Full Sun
+Pea,Pisum sativum,6.0-7.0,2-9,2-3 ft (vine),Full Sun
+Snow Pea,Pisum sativum var. saccharatum,6.0-7.0,2-9,2-3 ft (vine),Full Sun
+Green Bean,Phaseolus vulgaris,6.0-7.5,3-10,1-2 ft,Full Sun
+Lima Bean,Phaseolus lunatus,6.0-7.0,3-10,1-3 ft (vine),Full Sun
+Chickpea,Cicer arietinum,6.0-7.0,9-10,1-2 ft,Full Sun
+Lentil,Lens culinaris,6.0-6.5,6-9,1-2 ft,Full Sun
+Amaranth,Amaranthus spp.,6.0-7.5,2-11,3-8 ft,Full Sun
+Quinoa,Chenopodium quinoa,6.0-7.5,4-9,4-6 ft,Full Sun
+Buckwheat,Fagopyrum esculentum,6.0-7.0,3-10,2-4 ft,Full Sun
+Millet,Panicum miliaceum,5.5-7.0,2-11,2-5 ft,Full Sun
+Barley,Hordeum vulgare,6.0-7.0,3-10,2-4 ft,Full Sun
+Rice,Oryza sativa,5.0-6.5,9-12,2-6 ft,Full Sun
+Wheat,Triticum spp.,6.0-7.0,3-10,2-4 ft,Full Sun
+Oats,Avena sativa,6.0-7.0,3-10,2-4 ft,Full Sun
+Rye,Secale cereale,5.0-7.0,3-9,3-5 ft,Full Sun
+Sorghum,Sorghum bicolor,6.0-7.0,7-10,5-12 ft,Full Sun
+Flax,Linum usitatissimum,6.0-7.0,4-9,1-3 ft,Full Sun
+Hemp,Cannabis sativa,6.0-7.5,3-8,5-15 ft,Full Sun
+Alfalfa,Medicago sativa,6.5-7.5,3-8,2-3 ft,Full Sun
+Clover,Trifolium spp.,6.0-7.0,3-10,0.5-2 ft,Full Sun
+Dandelion,Taraxacum officinale,6.0-7.5,3-9,0.5-1 ft,Full Sun
+Comfrey,Symphytum officinale,6.0-7.0,4-9,2-5 ft,Partial Shade
+Chamomile,Matricaria chamomilla,5.5-7.5,3-9,1-2 ft,Full Sun
+Echinacea,Echinacea purpurea,6.0-7.0,3-8,2-5 ft,Full Sun
+Feverfew,Tanacetum parthenium,6.0-7.0,5-9,1-3 ft,Full Sun
+Yarrow,Achillea millefolium,6.0-7.0,3-9,2-3 ft,Full Sun
+Milk Thistle,Silybum marianum,6.0-7.5,5-9,3-6 ft,Full Sun
+St. John's Wort,Hypericum perforatum,5.5-7.0,5-9,1-3 ft,Full Sun to Partial Shade
+Valerian,Valeriana officinalis,6.0-7.5,4-7,3-5 ft,Full Sun to Partial Shade
+Calendula,Calendula officinalis,6.0-7.0,2-11,1-2 ft,Full Sun
+Borage,Borago officinalis,6.0-7.0,2-10,1-3 ft,Full Sun
+Mullein,Verbascum thapsus,6.0-7.0,4-9,6-8 ft,Full Sun
+Plantain,Plantago major,5.5-7.5,3-9,0.5-1 ft,Full Sun to Partial Shade
+Lungwort,Pulmonaria officinalis,6.0-7.5,4-8,1-1.5 ft,Partial to Full Shade
+Feverfew,Tanacetum parthenium,6.0-7.0,5-9,1-3 ft,Full Sun
+Marshmallow,Althaea officinalis,6.0-7.0,4-9,3-4 ft,Full Sun
+Lemon Balm,Melissa officinalis,6.0-7.0,4-9,1-3 ft,Full Sun to Partial Shade
+Catnip,Nepeta cataria,6.0-7.0,3-9,3-4 ft,Full Sun to Partial Shade
+Anise Hyssop,Agastache foeniculum,6.0-7.0,4-9,2-4 ft,Full Sun
+Bergamot,Monarda didyma,6.0-7.0,4-9,2-4 ft,Full Sun to Partial Shade
+Mexican Tarragon,Tagetes lucida,6.5-7.5,8-11,1-3 ft,Full Sun
+Lovage,Levisticum officinale,6.0-7.0,4-8,3-6 ft,Full Sun to Partial Shade
+Sorrel,Rumex acetosa,5.5-6.5,4-9,1-2 ft,Full Sun to Partial Shade
+Winter Savory,Satureja montana,6.5-7.5,6-9,0.5-1 ft,Full Sun
+Summer Savory,Satureja hortensis,6.5-7.5,6-9,1-1.5 ft,Full Sun
+Marjoram,Origanum majorana,6.5-7.5,9-10,1-2 ft,Full Sun
+Stevia,Stevia rebaudiana,6.5-7.0,9-11,1-3 ft,Full Sun to Partial Shade
+Goldenrod,Solidago spp.,5.5-7.5,3-9,2-5 ft,Full Sun
+Hyssop,Hyssopus officinalis,6.5-7.5,3-9,1-2 ft,Full Sun
+Wild Ginger,Asarum canadense,5.5-6.5,4-7,0.5-1 ft,Partial to Full Shade
+Meadowsweet,Filipendula ulmaria,6.0-7.5,3-9,2-4 ft,Partial Shade
+Angelica,Angelica archangelica,6.0-7.0,4-9,4-6 ft,Partial Shade
+Elecampane,Inula helenium,6.0-7.0,3-9,3-6 ft,Full Sun
+Licorice,Glycyrrhiza glabra,6.0-7.5,7-10,3-4 ft,Full Sun
+Dill,Anethum graveolens,5.5-6.5,2-11,2-3 ft,Full Sun
+Coriander,Coriandrum sativum,6.2-6.8,3-11,1-2 ft,Full Sun to Partial Shade
+Cumin,Cuminum cyminum,6.0-7.0,5-10,1-2 ft,Full Sun
+Fenugreek,Trigonella foenum-graecum,6.0-7.0,8-11,1-3 ft,Full Sun
+Ajwain,Trachyspermum ammi,6.5-7.5,8-10,1-3 ft,Full Sun
+Mustard,Brassica spp.,6.0-7.5,4-10,1-3 ft,Full Sun
+Poppy,Papaver somniferum,6.5-7.5,3-8,2-3 ft,Full Sun
+Caraway,Carum carvi,6.0-7.0,4-9,1-2 ft,Full Sun
+Caper,Capparis spinosa,6.5-7.5,8-10,1-3 ft,Full Sun
+Cardoon,Cynara cardunculus,6.0-7.5,7-9,3-5 ft,Full Sun
+Jerusalem Artichoke,Helianthus tuberosus,6.0-7.5,3-9,6-10 ft,Full Sun
+Salsify,Tragopogon porrifolius,6.0-7.0,5-9,2-4 ft,Full Sun
+Skirret,Sium sisarum,6.0-7.0,5-9,3-5 ft,Full Sun to Partial Shade
+Good King Henry,Chenopodium bonus-henricus,6.0-7.0,3-9,1-3 ft,Full Sun to Partial Shade
+Sea Kale,Crambe maritima,6.0-7.5,4-8,2-3 ft,Full Sun
+Purslane,Portulaca oleracea,6.0-7.5,5-10,0.5-1 ft,Full Sun
+Miner's Lettuce,Claytonia perfoliata,6.0-7.0,6-9,0.5-1 ft,Partial Shade
+Cress,Lepidium sativum,6.0-7.0,2-9,0.5-1 ft,Full Sun
+Lamb's Quarters,Chenopodium album,6.0-7.0,4-8,2-4 ft,Full Sun
+Nasturtium,Tropaeolum majus,6.0-7.5,2-11,1-10 ft,Full Sun
+Violet,Viola spp.,5.5-7.0,3-9,0.5-1 ft,Partial Shade
+Calendula,Calendula officinalis,6.0-7.0,2-11,1-2 ft,Full Sun
+Primrose,Primula vulgaris,6.0-7.0,4-8,0.5-1 ft,Partial Shade
+Yarrow,Achillea millefolium,6.0-7.0,3-9,2-3 ft,Full Sun
+Mugwort,Artemisia vulgaris,6.0-7.0,4-8,3-6 ft,Full Sun
+Heather,Calluna vulgaris,4.5-6.0,4-6,1-2 ft,Full Sun
+Lavender Cotton,Santolina chamaecyparissus,6.5-7.5,6-9,1-2 ft,Full Sun
+Lamb's Ears,Stachys byzantina,6.0-7.0,4-8,1-2 ft,Full Sun
+Speedwell,Veronica spicata,6.0-7.0,3-8,1-2 ft,Full Sun
+Liatris,Liatris spicata,6.0-7.0,3-9,2-4 ft,Full Sun
+Joe Pye Weed,Eutrochium purpureum,6.0-7.0,4-9,5-7 ft,Full Sun to Partial Shade
+Ironweed,Vernonia fasciculata,6.0-7.0,4-9,4-6 ft,Full Sun
+Sneezeweed,Helenium autumnale,5.5-7.0,3-8,3-5 ft,Full Sun
+Bee Balm,Monarda didyma,6.0-7.0,4-9,2-4 ft,Full Sun to Partial Shade
+Butterfly Weed,Asclepias tuberosa,6.0-7.0,3-9,1-3 ft,Full Sun
+Milkweed,Asclepias syriaca,6.0-7.0,3-9,3-5 ft,Full Sun
+Spiderwort,Tradescantia virginiana,5.0-6.0,4-9,1-3 ft,Full Sun to Partial Shade
+Penstemon,Penstemon spp.,6.0-7.5,3-8,1-3 ft,Full Sun
+Columbine,Aquilegia spp.,6.0-7.5,3-9,1-3 ft,Partial Shade
+Foxglove,Digitalis purpurea,6.0-7.0,4-8,2-5 ft,Partial Shade
+Hollyhock,Alcea rosea,6.0-7.5,3-8,5-8 ft,Full Sun
+Delphinium,Delphinium spp.,6.0-7.0,3-7,3-6 ft,Full Sun
+Iris,Iris spp.,6.0-7.0,3-9,1-3 ft,Full Sun
+Gladiolus,Gladiolus spp.,6.0-7.0,7-10,2-5 ft,Full Sun
+Tiger Lily,Lilium lancifolium,6.0-7.0,3-9,2-5 ft,Full Sun to Partial Shade
+Day Lily,Hemerocallis spp.,6.0-7.0,3-9,1-3 ft,Full Sun to Partial Shade
+Crocus,Crocus spp.,6.0-7.0,3-8,0.5-1 ft,Full Sun
+Hyacinth,Hyacinthus orientalis,6.0-7.0,4-8,0.5-1 ft,Full Sun
+Snowdrop,Galanthus nivalis,6.0-7.0,3-7,0.5-1 ft,Partial Shade
+Lily of the Valley,Convallaria majalis,5.0-6.0,3-8,0.5-1 ft,Partial to Full Shade
+Toad Lily,Tricyrtis hirta,6.0-7.0,4-9,2-3 ft,Partial to Full Shade
+Carnation,Dianthus caryophyllus,6.0-7.5,5-9,1-2 ft,Full Sun
+Peony,Paeonia lactiflora,6.0-7.0,3-8,2-3 ft,Full Sun to Partial Shade
+Ranunculus,Ranunculus asiaticus,6.0-7.0,8-10,1-2 ft,Full Sun
+Anemone,Anemone spp.,6.0-7.0,4-8,1-3 ft,Partial Shade
+Hellebore,Helleborus spp.,6.0-7.0,4-9,1-2 ft,Partial to Full Shade
+Christmas Rose,Helleborus niger,6.0-7.0,4-8,1-1.5 ft,Partial Shade
+Allium,Allium spp.,6.0-7.0,4-9,1-4 ft,Full Sun
+Amaryllis,Hippeastrum spp.,6.0-6.5,8-10,1-2 ft,Bright Indirect Light
+Calla Lily,Zantedeschia aethiopica,6.0-7.0,8-10,2-3 ft,Partial Shade
+Bird of Paradise,Strelitzia reginae,6.0-7.5,9-11,5-6 ft,Full Sun to Partial Shade
+Bromeliads,Bromeliaceae family,5.5-6.5,10-12,1-3 ft,Bright Indirect Light
+Anthurium,Anthurium andraeanum,5.5-6.5,10-12,1-2 ft,Bright Indirect Light
+Croton,Codiaeum variegatum,5.5-6.5,10-12,3-6 ft,Bright Indirect Light
+Aglaonema,Aglaonema spp.,5.5-6.5,10-12,1-3 ft,Low to Medium Light
+Dieffenbachia,Dieffenbachia spp.,5.5-6.5,10-12,3-5 ft,Bright Indirect Light
+Dracaena,Dracaena spp.,6.0-7.0,10-12,3-10 ft,Bright Indirect Light
+Fittonia,Fittonia spp.,6.0-6.5,11-12,0.5-1 ft,Bright Indirect Light
+Maranta,Maranta leuconeura,5.5-6.0,11-12,0.5-1 ft,Bright Indirect Light
+Calathea,Calathea spp.,5.5-6.5,10-12,1-2 ft,Bright Indirect Light
+Stromanthe,Stromanthe sanguinea,5.5-6.5,10-12,2-3 ft,Bright Indirect Light
+String of Pearls,Curio rowleyanus,6.0-7.0,9-11,1-3 ft (trailing),Bright Indirect Light
+Burro's Tail,Sedum morganianum,6.0-7.0,9-11,1-3 ft (trailing),Bright Indirect Light
+String of Hearts,Ceropegia woodii,6.0-7.0,10-12,3-9 ft (trailing),Bright Indirect Light
+Lipstick Plant,Aeschynanthus radicans,6.0-7.0,10-12,1-3 ft (trailing),Bright Indirect Light
+Goldfish Plant,Columnea gloriosa,5.5-6.5,10-12,1-2 ft (trailing),Bright Indirect Light
+Chenille Plant,Acalypha hispida,6.0-7.0,10-11,3-6 ft,Bright Indirect Light
+Crown of Thorns,Euphorbia milii,6.0-7.0,10-11,2-3 ft,Bright Indirect Light
+Bleeding Heart Vine,Clerodendrum thomsoniae,6.0-7.0,10-12,10-15 ft (vine),Bright Indirect Light
+Purple Heart,Tradescantia pallida,6.0-7.0,7-10,1-1.5 ft,Bright Indirect Light
+Tradescantia,Tradescantia zebrina,6.0-7.0,9-11,0.5-1 ft (trailing),Bright Indirect Light
+Persian Shield,Strobilanthes dyerianus,5.5-6.5,10-12,2-4 ft,Bright Indirect Light
+Polka Dot Plant,Hypoestes phyllostachya,6.0-7.0,10-12,0.5-1 ft,Bright Indirect Light
+Aluminum Plant,Pilea cadierei,6.0-7.0,11-12,1-2 ft,Bright Indirect Light
+Chinese Money Plant,Pilea peperomioides,6.0-7.0,9-11,0.5-1 ft,Bright Indirect Light
+Wandering Jew,Tradescantia fluminensis,5.0-6.0,9-11,0.5-1 ft (trailing),Bright Indirect Light
+Moses in the Cradle,Tradescantia spathacea,5.5-6.5,9-11,1-1.5 ft,Bright Indirect Light
+Strawberry Begonia,Saxifraga stolonifera,6.0-7.0,8-10,0.5-1 ft,Bright Indirect Light
+Peperomia,Peperomia spp.,5.0-6.0,10-12,0.5-1 ft,Bright Indirect Light
+Prayer Plant,Maranta leuconeura,5.5-6.0,11-12,0.5-1 ft,Bright Indirect Light
+Alocasia,Alocasia spp.,5.5-6.5,10-12,2-6 ft,Bright Indirect Light
+Colocasia,Colocasia esculenta,5.5-6.5,8-11,3-6 ft,Partial Shade
+Schefflera,Schefflera arboricola,6.0-6.5,10-12,4-8 ft,Bright Indirect Light
+Umbrella Tree,Schefflera actinophylla,6.0-6.5,10-12,8-15 ft,Bright Indirect Light
+Parlor Palm,Chamaedorea elegans,5.0-6.0,10-12,2-4 ft,Low to Bright Indirect Light
+Areca Palm,Dypsis lutescens,6.0-6.5,10-12,6-10 ft,Bright Indirect Light
+Kentia Palm,Howea forsteriana,6.0-7.0,9-11,6-12 ft,Bright Indirect Light
+Ponytail Palm,Beaucarnea recurvata,6.5-7.5,9-11,6-10 ft,Bright Indirect Light
+Sago Palm,Cycas revoluta,5.5-6.5,9-10,3-5 ft,Bright Indirect Light
+Bamboo Palm,Chamaedorea seifrizii,5.5-6.5,10-11,5-8 ft,Bright Indirect Light
+Fishtail Palm,Caryota spp.,6.0-7.0,10-12,10-20 ft,Bright Indirect Light
+Majesty Palm,Ravenea rivularis,5.0-6.0,9-11,10-12 ft,Bright Indirect Light
+Chinese Fan Palm,Livistona chinensis,6.0-7.0,9-11,6-15 ft,Bright Indirect Light
+European Fan Palm,Chamaerops humilis,6.0-7.5,8-10,6-15 ft,Full Sun
+Windmill Palm,Trachycarpus fortunei,5.5-6.5,7-10,10-40 ft,Full Sun to Partial Shade
+Lady Palm,Rhapis excelsa,5.5-6.5,9-11,6-12 ft,Bright Indirect Light
+California Fan Palm,Washingtonia filifera,6.5-7.5,9-11,60-80 ft,Full Sun
+Queen Palm,Syagrus romanzoffiana,6.0-7.0,9-11,50-70 ft,Full Sun
+Royal Palm,Roystonea regia,6.5-7.5,10-11,50-80 ft,Full Sun
+Foxtail Palm,Wodyetia bifurcata,6.0-7.0,10-11,30-40 ft,Full Sun
+Bottle Palm,Hyophorbe lagenicaulis,6.0-7.0,10-11,10-15 ft,Full Sun
+Triangle Palm,Dypsis decaryi,6.0-7.0,10-11,15-25 ft,Full Sun
+Pindo Palm,Butia capitata,6.0-7.0,8-10,15-20 ft,Full Sun
+Bismarck Palm,Bismarckia nobilis,6.0-7.0,10-11,40-70 ft,Full Sun
+Mexican Fan Palm,Washingtonia robusta,6.5-7.5,9-11,80-100 ft,Full Sun
+Pygmy Date Palm,Phoenix roebelenii,6.0-7.0,9-11,6-12 ft,Full Sun to Partial Shade
+Canary Island Date Palm,Phoenix canariensis,6.5-7.5,9-11,40-60 ft,Full Sun
+Sylvester Palm,Phoenix sylvestris,6.5-7.5,9-11,40-50 ft,Full Sun
+Chinese Windmill Palm,Trachycarpus fortunei,6.0-7.0,7-10,20-40 ft,Full Sun to Partial Shade
+Mediterranean Fan Palm,Chamaerops humilis,6.0-7.5,8-10,6-15 ft,Full Sun
+Needle Palm,Rhapidophyllum hystrix,5.5-6.5,5-10,3-6 ft,Partial Shade
+Saw Palmetto,Serenoa repens,5.5-7.0,7-11,5-10 ft,Full Sun to Partial Shade
+Dwarf Palmetto,Sabal minor,5.5-7.0,7-11,5-10 ft,Full Sun to Partial Shade
+Cabbage Palm,Sabal palmetto,5.5-7.0,8-10,40-60 ft,Full Sun
+Chinese Windmill Palm,Trachycarpus fortunei,6.0-7.0,7-10,20-40 ft,Full Sun to Partial Shade
+Norfolk Island Pine,Araucaria heterophylla,5.5-6.5,10-11,100-200 ft,Bright Indirect Light
+Bald Cypress,Taxodium distichum,5.0-6.5,4-10,50-100 ft,Full Sun
+Dawn Redwood,Metasequoia glyptostroboides,5.0-6.5,5-8,70-100 ft,Full Sun
+Juniper,Juniperus spp.,6.0-7.0,3-9,5-30 ft,Full Sun
+Arborvitae,Thuja spp.,6.0-8.0,3-8,10-60 ft,Full Sun
+Hemlock,Tsuga spp.,5.0-6.0,3-7,40-70 ft,Partial Shade
+Spruce,Picea spp.,5.0-6.0,2-8,40-60 ft,Full Sun
+Cedar,Cedrus spp.,6.0-7.0,5-9,30-130 ft,Full Sun
+Cypress,Cupressus spp.,6.0-8.0,7-10,25-80 ft,Full Sun
+Larch,Larix spp.,5.0-6.5,2-6,60-150 ft,Full Sun
+Douglas Fir,Pseudotsuga menziesii,6.0-7.0,4-6,70-250 ft,Full Sun
+Fir,Abies spp.,5.0-6.0,3-7,50-250 ft,Full Sun
+Redwood,Sequoia sempervirens,5.5-6.5,7-9,200-300 ft,Full Sun to Partial Shade
+Giant Sequoia,Sequoiadendron giganteum,6.0-6.5,6-8,250-300 ft,Full Sun
+Yew,Taxus spp.,6.0-7.0,4-7,15-60 ft,Partial Shade
+Ginkgo,Ginkgo biloba,5.5-8.0,3-8,50-80 ft,Full Sun
+Blue Spruce,Picea pungens,6.0-7.5,2-7,30-60 ft,Full Sun
+Norway Spruce,Picea abies,5.0-7.5,2-7,40-60 ft,Full Sun
+White Pine,Pinus strobus,5.0-6.5,3-8,50-80 ft,Full Sun
+Red Pine,Pinus resinosa,5.0-6.5,2-6,50-80 ft,Full Sun
+Scotch Pine,Pinus sylvestris,5.0-6.5,3-7,30-60 ft,Full Sun
+Austrian Pine,Pinus nigra,6.0-8.0,4-8,40-60 ft,Full Sun
+Loblolly Pine,Pinus taeda,5.0-6.5,6-9,60-90 ft,Full Sun
+Ponderosa Pine,Pinus ponderosa,6.0-7.0,3-7,60-100 ft,Full Sun
+Leyland Cypress,_ Cuprocyparis leylandii,5.0-8.0,6-10,60-70 ft,Full Sun
+Italian Cypress,Cupressus sempervirens,6.5-8.0,7-10,40-60 ft,Full Sun
+Norway Maple,Acer platanoides,6.0-7.5,3-7,40-60 ft,Full Sun
+Sugar Maple,Acer saccharum,6.0-7.5,3-8,60-75 ft,Full Sun to Partial Shade
+Silver Maple,Acer saccharinum,5.5-7.0,3-9,50-80 ft,Full Sun
+Paper Birch,Betula papyrifera,5.0-7.5,2-6,50-70 ft,Full Sun
+River Birch,Betula nigra,5.0-6.5,4-9,40-70 ft,Full Sun
+European White Birch,Betula pendula,5.0-8.0,2-6,40-50 ft,Full Sun
+Sweetgum,Liquidambar styraciflua,5.0-7.0,5-9,60-75 ft,Full Sun
+American Sycamore,Platanus occidentalis,4.9-6.5,4-9,75-100 ft,Full Sun
+London Plane Tree,Platanus _ acerifolia,5.0-8.0,5-9,70-100 ft,Full Sun
+American Beech,Fagus grandifolia,5.0-6.5,3-9,50-80 ft,Full Sun to Partial Shade
+European Beech,Fagus sylvatica,5.0-7.5,4-7,50-60 ft,Full Sun to Partial Shade
+White Oak,Quercus alba,6.0-7.0,3-9,50-80 ft,Full Sun
+Red Oak,Quercus rubra,5.0-7.0,3-8,60-75 ft,Full Sun
+Pin Oak,Quercus palustris,5.0-6.5,4-8,60-70 ft,Full Sun
+Willow Oak,Quercus phellos,5.5-6.5,5-9,40-60 ft,Full Sun
+American Elm,Ulmus americana,5.5-8.0,2-9,60-80 ft,Full Sun
+Linden,Tilia spp.,5.5-7.5,3-8,60-80 ft,Full Sun
+Honey Locust,Gleditsia triacanthos,6.0-8.0,4-9,30-70 ft,Full Sun
+Kentucky Coffee Tree,Gymnocladus dioicus,6.0-8.0,3-8,60-80 ft,Full Sun
+Catalpa,Catalpa spp.,5.5-7.5,4-9,40-60 ft,Full Sun
+Tulip Tree,Liriodendron tulipifera,4.5-7.0,4-9,70-90 ft,Full Sun
+Mimosa,Albizia julibrissin,4.6-8.0,6-9,20-40 ft,Full Sun
+Empress Tree,Paulownia tomentosa,5.0-8.0,5-9,30-40 ft,Full Sun
+Monkey Puzzle Tree,Araucaria araucana,5.0-6.0,7-10,70-100 ft,Full Sun
+Tree Fern,Cyathea spp.,5.5-6.5,9-11,15-20 ft,Partial Shade
+Smoke Tree,Cotinus coggygria,6.0-7.5,4-8,10-15 ft,Full Sun
+Crape Myrtle,Lagerstroemia indica,5.0-6.5,7-9,15-25 ft,Full Sun
+Redbud,Cercis canadensis,6.8-7.2,4-9,20-30 ft,Full Sun to Partial Shade
+Serviceberry,Amelanchier spp.,5.5-7.5,4-9,15-25 ft,Full Sun to Partial Shade
+Witch Hazel,Hamamelis spp.,5.5-6.5,3-9,15-20 ft,Full Sun to Partial Shade
+Fringe Tree,Chionanthus virginicus,5.0-6.5,3-9,12-20 ft,Full Sun to Partial Shade
+Russian Olive,Elaeagnus angustifolia,6.0-8.0,3-7,15-20 ft,Full Sun
+Black Gum,Nyssa sylvatica,4.5-6.0,3-9,30-50 ft,Full Sun to Partial Shade
+Sweet Bay Magnolia,Magnolia virginiana,5.0-6.5,5-10,10-35 ft,Full Sun to Partial Shade
+Star Magnolia,Magnolia stellata,5.5-6.5,4-8,15-20 ft,Full Sun to Partial Shade
+Saucer Magnolia,Magnolia _ soulangeana,5.5-6.5,4-9,20-30 ft,Full Sun to Partial Shade
+Holly,Ilex spp.,5.0-6.0,5-9,15-50 ft,Full Sun to Partial Shade
+Boxwood,Buxus spp.,6.5-7.5,5-8,3-20 ft,Partial Shade
+Yew,Taxus spp.,6.0-7.0,4-7,15-60 ft,Partial Shade
+Juniper,Juniperus spp.,6.0-7.0,3-9,5-30 ft,Full Sun
+Privet,Ligustrum spp.,5.0-7.5,4-8,4-15 ft,Full Sun to Partial Shade
+Barberry,Berberis spp.,6.0-7.5,4-8,3-6 ft,Full Sun to Partial Shade
+Euonymus,Euonymus spp.,6.0-7.0,4-9,2-20 ft,Full Sun to Partial Shade
+Photinia,Photinia spp.,5.0-7.0,7-9,10-15 ft,Full Sun to Partial Shade
+Viburnum,Viburnum spp.,5.5-6.5,2-8,5-15 ft,Full Sun to Partial Shade
+Spiraea,Spiraea spp.,5.5-7.5,3-8,3-6 ft,Full Sun
+Potentilla,Potentilla fruticosa,6.0-7.5,2-7,1-4 ft,Full Sun
+Deutzia,Deutzia spp.,5.5-7.5,5-8,2-8 ft,Full Sun to Partial Shade
+Weigela,Weigela florida,6.0-7.5,4-8,6-10 ft,Full Sun to Partial Shade
+Mock Orange,Philadelphus spp.,6.0-7.5,4-8,6-12 ft,Full Sun to Partial Shade
+Abelia,Abelia _ grandiflora,5.5-7.5,6-9,3-6 ft,Full Sun to Partial Shade
+Gardenia,Gardenia jasminoides,5.0-6.0,8-11,4-8 ft,Partial Shade
+Camellia,Camellia japonica,5.5-6.5,7-9,6-12 ft,Partial Shade
+Rhododendron,Rhododendron spp.,4.5-6.0,4-8,3-12 ft,Partial Shade
+Mountain Laurel,Kalmia latifolia,4.5-6.0,4-9,5-15 ft,Partial Shade
+Pieris,Pieris japonica,5.0-6.0,5-8,6-8 ft,Partial Shade
+Leucothoe,Leucothoe fontanesiana,5.0-6.0,5-8,3-6 ft,Partial to Full Shade
+Clethra,Clethra alnifolia,5.0-6.0,3-9,3-8 ft,Full Sun to Partial Shade
+Fothergilla,Fothergilla gardenii,5.0-6.0,5-8,2-3 ft,Full Sun to Partial Shade
+Sweetshrub,Calycanthus floridus,6.0-7.0,4-9,6-10 ft,Full Sun to Partial Shade
+Elderberry,Sambucus nigra,5.5-6.5,4-7,5-12 ft,Full Sun to Partial Shade
+Beautyberry,Callicarpa americana,5.0-6.5,6-10,3-5 ft,Full Sun to Partial Shade
+Buttonbush,Cephalanthus occidentalis,6.5-7.5,5-9,5-12 ft,Full Sun to Partial Shade
+Carolina Allspice,Calycanthus floridus,6.0-7.0,4-9,6-10 ft,Full Sun to Partial Shade
+Rose of Sharon,Hibiscus syriacus,6.0-7.5,5-9,8-12 ft,Full Sun
+Ninebark,Physocarpus opulifolius,6.0-7.5,2-8,5-10 ft,Full Sun to Partial Shade
+Red-twig Dogwood,Cornus sericea,5.5-7.0,3-8,6-9 ft,Full Sun to Partial Shade
+Flowering Quince,Chaenomeles speciosa,6.0-7.5,4-9,6-10 ft,Full Sun
+Winterberry,Ilex verticillata,4.5-6.5,3-9,5-15 ft,Full Sun to Partial Shade
+Bayberry,Myrica pensylvanica,6.0-7.0,3-7,5-10 ft,Full Sun to Partial Shade
+Japanese Kerria,Kerria japonica,6.0-7.0,4-9,3-6 ft,Partial Shade
+Oregon Grape,Mahonia aquifolium,5.5-7.0,5-9,3-6 ft,Partial Shade
+Blue Mist Shrub,Caryopteris _ clandonensis,6.0-8.0,5-9,2-4 ft,Full Sun
+Russian Sage,Perovskia atriplicifolia,6.0-8.0,4-9,3-5 ft,Full Sun
+Butterfly Bush,Buddleja davidii,6.0-7.5,5-9,5-10 ft,Full Sun
+Chaste Tree,Vitex agnus-castus,6.0-7.5,6-9,10-15 ft,Full Sun
+Angel's Trumpet,Brugmansia spp.,6.0-7.5,9-11,6-15 ft,Full Sun to Partial Shade
+Night Blooming Jasmine,Cestrum nocturnum,6.0-7.5,8-11,8-12 ft,Full Sun to Partial Shade
+Confederate Jasmine,Trachelospermum jasminoides,6.0-7.0,8-10,20-30 ft (vine),Full Sun to Partial Shade
+Carolina Jessamine,Gelsemium sempervirens,5.5-7.0,7-9,10-20 ft (vine),Full Sun to Partial Shade
+Trumpet Vine,Campsis radicans,6.0-6.8,4-9,25-40 ft (vine),Full Sun
+American Bittersweet,Celastrus scandens,6.0-7.5,3-8,15-20 ft (vine),Full Sun to Partial Shade
+Boston,,,,,

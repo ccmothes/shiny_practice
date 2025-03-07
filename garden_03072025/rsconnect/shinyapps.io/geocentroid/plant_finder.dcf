@@ -1,0 +1,12 @@
+name: plant_finder
+title: plant_finder
+username: geocentroid
+account: geocentroid
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14186400
+bundleId: 9908145
+url: https://geocentroid.shinyapps.io/plant_finder/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
